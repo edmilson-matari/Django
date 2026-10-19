@@ -1,4 +1,4 @@
-# Wiki — CS50 Web Programming
+# 2. Wiki — CS50 Web Programming
 
 A Wikipedia-like online encyclopedia built with Django as part of Project 1 of Harvard University's CS50 Web Programming with Python and JavaScript course.
 
